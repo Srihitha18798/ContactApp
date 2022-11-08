@@ -15,7 +15,7 @@ function App() {
     {
       id:"2",
       name:"Tadiparthi",
-      email:"tadip@gmail.com"
+      email:"tadiparthi@gmail.com"
     },
   ];
   return (
