@@ -10,7 +10,7 @@ function App() {
     {
       id:"1",
       name:"Srihitha",
-      email:"sri@gmail.com"
+      email:"srihitha@gmail.com"
     },
     {
       id:"2",
